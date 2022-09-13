@@ -1,0 +1,33 @@
+body {
+  background-color: #FFFAE7;
+}
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 8px;
+  width: 5%;
+}
+
+p {
+  font-family: 'Roboto', sans-serif;
+}
+
+form {
+  font-family: 'Roboto', sans-serif;
+}
+
+h1 {
+  color: #00D7FF;
+  font-family: 'Roboto', sans-serif;
+}
+
+h2 {
+  color: #00D7FF;
+  font-family: 'Roboto', sans-serif;
+}
+
+h3 {
+  color: #00D7FF;
+  font-family: 'Roboto', sans-serif;
+}
